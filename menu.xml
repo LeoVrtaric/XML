@@ -1,0 +1,49 @@
+<menu>
+	<pizza>
+	<ime>Mixed Emotions</ime>
+	<cijena>98,00 kn</cijena>
+	<opis>Krema od ljubičastog batata, žute rajčice, maslinovo ulje, burrata, dry aged junetina, Bra Duro DOP, aceto balsamico krema</opis>
+	</pizza>
+
+	<pizza>
+	<ime>Pi5tachio B.</ime>
+	<cijena>98,00 kn</cijena>
+	<opis>Mozzarella fior di latte Julienne, crvene polusušene rajčice, mrvljeni pistachio, bresaola, Grana Padano čips</opis>
+	</pizza>
+
+	<pizza>
+	<ime>Chef's Marinara</ime>
+	<cijena>58,00 kn</cijena>
+	<opis>San Marzano DOP, polusušena žuta rajčica, parmezan, svježi bosiljak, ekstra djevičansko maslinovo ulje, češnjak</opis>
+	</pizza>
+
+	<pizza>
+	<ime>Margherita</ime>
+	<cijena>67,00 kn</cijena>
+	<opis>San Marzano DOP, mozzarella fior di latte, grana padano, svježi bosiljak, ekstra djevičansko maslinovo ulje,</opis>
+	</pizza>
+
+	<pizza>
+	<ime>Buffala</ime>
+	<cijena>86,00 kn</cijena>
+	<opis>San Marzano DOP, mozzarella di Bufala, svježi bosiljak, ekstra djevičansko maslinovo ulje, mozzarellina</opis>
+	</pizza>
+
+	<pizza>
+	<ime>Sei Formaggi</ime>
+	<cijena>78,00 kn</cijena>
+	<opis>Mozzarella fior di latte, taleggio, ricotta, montasio DOP, sir Kolan, parmezan, svježi bosiljak, ekstra djevičansko maslinovo ulje, mozzarellina</opis>
+	</pizza>
+
+	<pizza>
+	<ime>Classic</ime>
+	<cijena>84,00 kn</cijena>
+	<opis>San Marzano DOP, dimljena šunka, mozzarella fior di latte, zlatni šampinjoni, svježi bosiljak, ekstra djevičansko maslinovo ulje,</opis>
+	</pizza>
+
+	<pizza>
+	<ime>Guanciale Nero</ime>
+	<cijena>99,00 kn</cijena>
+	<opis>San Marzano DOP, dimljeni obrazi crne svinje, mozzarella fior di latte, gljive panjevčice, ukiseljene bijele lučice, svježi bosiljak, ekstra djevičansko maslinovo ulje</opis>
+	</pizza>
+</menu>
